@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://avatars.githubusercontent.com/u/335220215?s=400&u=d0df797444978fa1ca33bbde08d0cc936c2321aa&v=4" width="30" height="30" /> CodeStivers
+# <img src="https://www.codestivers.com/favicon.png" width="30" height="30" /> CodeStivers
 
 ### **Enterprise Software, Web Applications & Autonomous AI Engineering**
 
